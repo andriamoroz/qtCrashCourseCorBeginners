@@ -13,7 +13,7 @@ MainWindow::~MainWindow()
     delete ui;
 }
 
-int firstNum, secondNum, result;
+int firstNum, secondNum, result, newone;
 
 void MainWindow::on_btnAdd_clicked()
 {
